@@ -53,4 +53,16 @@ foreach ($unternehmen as $abteilung => $arbeiter) {
 }
 
 
+
+
+/* ************** */
+echo "<br><br>";
+/* ************** */
+$mitarbeiter = ["Alex", "Harald", "Edin", "Dzeko"];
+echo "Ausgabe des Arrays mittels der for schleife:";
+for ($i=0; $i < count($mitarbeiter) ; $i++) {
+  echo "$mitarbeiter[$i] <br>";
+}
+
+
 ?>
