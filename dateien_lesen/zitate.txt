@@ -1,17 +1,6 @@
-Es ist die Hardware, die einen Computer schnell macht; und die Software die ihn wieder verlangsamt. 
-- Craig Bruce 
-
-Computer sind unbrauchbar. Sie können nur Fragen beantworten. 
-- Pablo Picasso 
-
-Für die Zukunft sind Computer mit weniger als 1,5 Tonnen Gewicht vorstellbar. 
-- Popular Mechanics 
-
-Die Virenproblematik ist nur ein temporäres Phänomen und wird in ein paar Jahren verschwunden sein. 
-- John McAfee 
-
-Passwörter sind wie Unterwäsche. Du darfst sie keinen sehen lassen, musst sie regelmäßig wechseln und solltest sie nicht mit Fremden tauschen. 
-- Chris Pirillo 
-
-Computerviren sind eine moderne Legende. 
-- Peter Norton
+Es ist die Hardware, die einen Computer schnell macht; und die Software die ihn wieder verlangsamt. - Craig Bruce 
+Computer sind unbrauchbar. Sie können nur Fragen beantworten. - Pablo Picasso 
+Für die Zukunft sind Computer mit weniger als 1,5 Tonnen Gewicht vorstellbar. - Popular Mechanics 
+Die Virenproblematik ist nur ein temporäres Phänomen und wird in ein paar Jahren verschwunden sein.  John McAfee 
+Passwörter sind wie Unterwäsche. Du darfst sie keinen sehen lassen, musst sie regelmäßig wechseln und solltest sie nicht mit Fremden tauschen. - Chris Pirillo 
+Computerviren sind eine moderne Legende. - Peter Norton
